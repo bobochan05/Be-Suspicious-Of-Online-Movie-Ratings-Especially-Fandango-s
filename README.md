@@ -11,7 +11,6 @@ This project analyzes movie rating data with a special focus on **Fandango**, in
 
 This work is inspired by real-world concerns around review manipulation and is designed as a **data analysis + ML-oriented capstone project**.
 
----
 
 ## 🎯 Objectives
 
@@ -19,8 +18,6 @@ This work is inspired by real-world concerns around review manipulation and is d
 * Identify systematic rating inflation or bias
 * Analyze discrepancies between critic and user ratings
 * Build intuition around trustworthiness of online reviews
-
----
 
 ## 📊 Dataset
 
@@ -37,8 +34,6 @@ This work is inspired by real-world concerns around review manipulation and is d
   * Critic scores
   * Audience scores
   * Normalized ratings
-
----
 
 ## 🔍 Methodology
 
@@ -63,8 +58,6 @@ This work is inspired by real-world concerns around review manipulation and is d
    * What the numbers imply for real users
    * Why certain platforms appear more optimistic
 
----
-
 ## 📈 Key Insights
 
 * Fandango ratings tend to skew higher than other platforms
@@ -73,7 +66,6 @@ This work is inspired by real-world concerns around review manipulation and is d
 
 *(Detailed plots and findings are available in the notebook)*
 
----
 
 ## 🧪 How to Run the Project
 
